@@ -1,15 +1,15 @@
 ![coding](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?resize=1170%2C390&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Batu</h1>
-<h3 align="center">Junior Full-Stack Developer passionate about creating scalable and user-focused web applications.</h3>
+<h3 align="center">🌟 Junior Full-Stack Developer committed to building responsive, efficient, and user-centric web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
 - 🌱 I’m currently learning **the MERN stack - mastering React for dynamic froentends!**
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Feel free to ask me about **React, JavaScript, or web performance optimization!**
 
-- 📫 How to reach me **bthn.yildirim@gmail.com**
+- 📧 Reach out at **bthn.yildirim@gmail.com** for collaboration or inquiries.
 
 - ⚡ Fun fact **I can write code faster than I can decide what to eat for dinner!**
 
